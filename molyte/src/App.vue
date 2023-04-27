@@ -7,7 +7,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 	<header>
 		<div class="wrapper">
 			<HelloWorld />
-
+		<p></p>
 			
 		</div>
 	</header>
